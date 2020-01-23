@@ -1,5 +1,6 @@
-# Shape_App
-Object-oriented-programming.
+# OOP
+
+Shape_App
 
 Cho một danh sách các đối tượng hình học cơ bản. 
 Cho một đường polyline.
