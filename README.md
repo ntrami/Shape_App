@@ -1,12 +1,12 @@
-# OOP
+# Object-oriented programming: Shape_App
+This project is completed in OOP course at VNUHCM-University of Science.
 
-Shape_App
+## Description:
+Given a list of basic geometric objects. <br>
+Given a polyline. <br>
 
-Cho một danh sách các đối tượng hình học cơ bản. 
-Cho một đường polyline.
-
-Viết hàm cho biết đường polyline cắt ngang các hình nào của danh sách.
-Viết ứng dụng cho phép tạo các hình và tạo một polyline, vẽ các hình và đường polyline.
-Xuất thông báo cho biết đường polyline đi qua bao nhiêu hình.
-Tô màu các hình có đường polyline cắt ngang với màu khác các hình còn lại.
+Write a function that  polyline intersects the shapes of the list. <br>
+Write an application that allows creating shapes and creating a polyline, drawing shapes and polylines. <br>
+Outputs a message showing how many shapes the polyline passes through. <br>
+Fill the shapes with the polyline crossing with a different color than the rest. <br>
 
